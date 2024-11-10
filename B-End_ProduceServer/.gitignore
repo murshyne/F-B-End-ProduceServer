@@ -1,0 +1,5 @@
+node_modules/
+Lecture/
+Lab/
+.gitignore/
+.env/
